@@ -1,0 +1,1 @@
+- media.docbook : from examples of docbook2odf /usr/share/doc/docbook2odf/examples
