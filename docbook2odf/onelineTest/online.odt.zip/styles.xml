@@ -55,10 +55,6 @@
         <style:paragraph-properties fo:padding-top="0.20cm" fo:padding-bottom="0.20cm" fo:border-left="0.2cm solid #000000"/>
         <style:text-properties/>
       </style:style>
-      <style:style xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" style:name="para-literallayout" style:display-name="Paragraph Literallayout" style:family="paragraph" style:parent-style-name="Verbatim" style:next-style-name="para-literallayout">
-        <style:paragraph-properties fo:padding-top="0.20cm" fo:padding-bottom="0.20cm" fo:border-left="0.002cm solid #000000"/>
-        <style:text-properties/>
-      </style:style>
       <style:style xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" style:name="para-synopsis" style:display-name="Paragraph Synopsis" style:family="paragraph" style:parent-style-name="Verbatim" style:next-style-name="para-synopsis">
         <style:paragraph-properties fo:padding-top="0.20cm" fo:padding-bottom="0.20cm" fo:background-color="" fo:border-left="0.2cm solid #000000"/>
         <style:text-properties/>
@@ -69,9 +65,6 @@
       <style:style xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" style:name="para-blockquote" style:display-name="Paragraph BlockQuote" style:family="paragraph" style:parent-style-name="Standard">
         <style:paragraph-properties fo:margin-left="1.2cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding-left="0.15cm" fo:padding-right="0.049cm" fo:padding-top="0.049cm" fo:padding-bottom="0.049cm" fo:border-left="0.176cm solid #999999" fo:border-right="none" fo:border-top="none" fo:border-bottom="none" style:shadow="none" fo:margin-bottom="0.3cm"/>
         <style:text-properties fo:font-style="italic"/>
-      </style:style>
-      <style:style xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" style:name="para-admonition" style:display-name="Paragraph Admonition" style:family="paragraph" style:parent-style-name="Standard">
-        <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:margin-top="0.3cm" fo:margin-bottom="0.4cm" fo:padding-left="0.7cm" fo:padding-right="0.049cm" fo:padding-top="0.2cm" fo:padding-bottom="0.2cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:border-top="0.01cm double #000000" fo:border-bottom="0.01cm double #000000" style:shadow="none"/>
       </style:style>
       <style:style xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" style:name="para-term" style:display-name="Paragraph Term" style:family="paragraph" style:parent-style-name="Standard">
         <style:paragraph-properties fo:keep-with-next="always" fo:margin-top="0.20cm"/>
@@ -240,7 +233,7 @@
         <style:text-properties style:font-name="Arial Black" fo:font-size="7pt" fo:color="#FFFFFF"/>
       </style:style>
       <style:style xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" style:name="CI.line" style:family="graphic">
-        <style:graphic-properties draw:textarea-horizontal-align="left" draw:textarea-vertical-align="middle" draw:stroke="solid" fo:padding-left="2cm" svg:stroke-width="0.0cm" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="bottom" style:vertical-rel="page" style:horizontal-pos="right" style:horizontal-rel="page" draw:fill-color="#FFFFFF" svg:stroke-color="#FFFFFF"/>
+        <style:graphic-properties draw:textarea-horizontal-align="left" draw:textarea-vertical-align="middle" draw:stroke="solid" fo:padding-left="2cm" svg:stroke-width="0.0cm" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="bottom" style:vertical-rel="page" style:horizontal-pos="right" style:horizontal-rel="page" draw:fill-color="#323298" svg:stroke-color="#323298"/>
       </style:style>
     </office:automatic-styles>
     <office:master-styles>
@@ -249,7 +242,7 @@
           <text:p>
             <draw:rect text:anchor-type="paragraph" text:rotation-angle="90" draw:z-index="0" draw:style-name="CI.line" draw:text-style-name="CI.para-line" draw:transform="rotate(1.571)" svg:width="28.2cm" svg:height="1.0cm" svg:x="1.0cm" svg:y="0.0cm">
               <text:p text:style-name="CI.para-line">
-                <text:span text:style-name="CI.text-line"/>
+                <text:span text:style-name="CI.text-line">Generated by docbook2odf</text:span>
               </text:p>
             </draw:rect>
           </text:p>
@@ -260,7 +253,7 @@
             <table:table-row>
               <table:table-cell office:value-type="string">
                 <text:p text:style-name="CI.footer-start">家装设计标书</text:p>
-                <text:p text:style-name="CI.footer-start"/>
+                <text:p text:style-name="CI.footer-start">Generated by docbook2odf</text:p>
               </table:table-cell>
               <table:table-cell office:value-type="string">
                 <text:p text:style-name="CI.footer-end">
@@ -275,7 +268,7 @@
           <text:p>
             <draw:rect text:anchor-type="paragraph" text:rotation-angle="90" draw:z-index="0" draw:style-name="CI.line" draw:text-style-name="CI.para-line" draw:transform="rotate(1.571)" svg:width="28.2cm" svg:height="1.0cm" svg:x="1.0cm" svg:y="0.0cm">
               <text:p text:style-name="CI.para-line">
-                <text:span text:style-name="CI.text-line"/>
+                <text:span text:style-name="CI.text-line">Generated by docbook2odf</text:span>
               </text:p>
             </draw:rect>
           </text:p>
@@ -286,7 +279,7 @@
             <table:table-row>
               <table:table-cell office:value-type="string">
                 <text:p text:style-name="CI.footer-start">家装设计标书</text:p>
-                <text:p text:style-name="CI.footer-start"/>
+                <text:p text:style-name="CI.footer-start">Generated by docbook2odf</text:p>
               </table:table-cell>
               <table:table-cell office:value-type="string">
                 <text:p text:style-name="CI.footer-end">
